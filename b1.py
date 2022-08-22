@@ -4,3 +4,5 @@
 echo "the more we are together"
 echo "the happier we will be"
 New starter master
+Betther days ahead
+
